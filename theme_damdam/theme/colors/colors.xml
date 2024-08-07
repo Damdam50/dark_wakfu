@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<colors>
+
+<!-- TEXTES -->
+
+	<color id="defaultLightColor" color="#ffffff"/><!-- Textes Principaux,Titre, Pts de citoyenneté, Pts de vie, Phrases Accueil, survol pseudo chat -->
+	<color id="mecanicBlueColor" color="#f5f3ee"/><!-- Textes des menus, kamas, ligne selectionné dépliant mercenaire/recherche groupe, boutique -->
+	<color id="mecanicDarkBlueColor" color="#f5f3ee"/><!-- Textes des menus, kamas, titre interfaces comme métier -->
+	<color id="defaultDarkGreyColor" color="#f5f3ee80"/><!-- texte disabled (ex: menu options accueil)-->
+
+	<color id="listFilterColor" color="#f0c517"/><!-- textes divers comme "gain d'xp" dans le menu métier-->
+
+	<color id="defaultDarkColor" color="#f5f3ee"/><!-- Couleurs texte, parchemins, général quêtes PARTOUT --> 
+	<color id="defaultBlackColor" color="#f5f3ee"/><!-- Couleurs texte sur les parchemins, Couleur PV, PA, PM, ... menu aptitudes -->
+
+	<color id="blackColor" color="#f5f3ee" /><!-- Couleurs texte sur les parchemins et Titres Hdv -->
+	<color id="whiteColor" color="#f5f3ee"/><!-- Couleurs Texte Page Equipement Inventaire + titres paramètres -->
+
+	<color id="questObjectiveColor" color="#f5f3ee"/><!-- Textes des quêtes --> 
+	<color id="passportTitleColor" color="#f5f3ee"/><!-- titre du passeport	-->
+
+	<color id="backgroundBookColor" color="#2d2927"/><!-- Couleurs texte sur les parchemins/livres -->
+	<color id="descriptionPopupColor" color="#f0c517" /><!-- Couleurs description item -->
+	
+	<color id="scrollFleshColor" color="#f0c517"/><!-- Couleurs Gros Titres Quêtes -->
+	<color id="questObjectiveColor" color="#f5f3ee"/><!-- Couleur Objectifs Quêtes -->
+	
+	<color id="textDarkTextEditorColor" color="#f5f3ee"/><!-- couleur texte des champs popup -->
+	<color id="selectionDarkTextEditorColor" color="#f5f3ee"/><!-- texte recherche zaap-->
+	
+	<color id="mecanicLightBlueColor" color="#f0c517" /><!-- texte pseudo personnage liste amis -->
+
+	<!-- FONDS -->
+	
+	<color id="scrollEvenCellColor" color="#585350"/><!-- Couleur ligne n°1 ladder -->
+	<color id="scrollOddCellColor" color="#4b4642"/><!-- Couleur ligne n°2 ladder -->
+	<color id="scrollSelectedCellColor" color="#6d6863"/><!-- Couleur Personnage sur ladder -->
+	<color id="scrollMouseOverCellColor" color="#f0c51750"/><!-- Couleur Survol sur ladder -->
+	
+	<color id="dungeonLadderRankingColor" color="#f0c51750"/><!-- ligne perso dans le ladder des donjons -->
+	<color id="dungeonLadderNoRankColor" color="#2d292750"/><!-- blason non classé dans le ladder des donjons -->
+	
+	<color id="fightReportEvenCellColor" color="#585350"/><!-- Couleur fin de combat n°1 -->
+	<color id="fightReportOddCellColor" color="#2d2927"/><!-- Couleur fin de combat n°2 -->
+	
+	<color id="evenCellColor" color="#585350"/><!-- Couleurs ligne item n°1 -->
+	<color id="oddCellColor" color="#4b4642"/><!-- Couleurs ligne item n°2 -->
+	
+	<color id="fleaEvenCellColor" color="#585350"/><!-- Couleurs Vitrine HS n°1 -->
+	<color id="fleaOddCellColor" color="#4b4642"/><!-- Couleurs Vitrine HS n°2 -->
+	
+	<color id="darkSelectedCellColor" color="#4cbc8f"/><!-- Nations Territoires ligne sélectionnée --> 
+	<color id="darkMouseOverCellColor" color="#948d87"/><!-- Nations Territoires quand on passe sa souris dessus -->
+
+	<color id="selectedCellColor" color="#6d6863"/><!-- Guilde ligne sélectionnée -->
+	<color id="mouseOverCellColor" color="#948d87"/><!-- Guilde quand on passe sa souris dessus -->	
+	
+	<color id="chalkboardBackgroundColor" color="#2d2927"/><!-- Fond de couleur HDV -->
+	<color id="chalkboardBorderColor" color="#403b38" /><!-- séparateurs colonnes couleur HDV -->
+
+	<color id="scrollTitleBackgroundColor" color="#352918"/><!-- Fond Stats Montilier -->
+
+	<color id="pressedLightColor" color="#4b4642"/><!-- Couleurs ligne item n°1 et selection déroulement aptitude -->
+	
+	<color id="dungeonLadderSeparatorColor" color="#2d2927"/><!-- Couleur de la séparation des colonnes dans le classement de donjon -->
+	<color id="webShopHighlightColor" color="#403b38"/><!-- Couleur du fond dans le carrousel de la boutique -->
+
+	<!-- JAUGES -->
+
+	<color id="xpColorCompanion" color="#b78c17"/><!-- couleur xp compagnons -->
+	<color id="progressBarDefaultColor" color="#f0c517"/><!-- couleur des barres de progression -->
+	<color id="protectorColor" color="#96e666"/><!-- Couleur Fiole ecosystème -->
+	<color id="wakfuColor" color="#b78c17"/><!-- Couleur Fiole ecosystème + xp booster metier/combat -->
+
+	<color id="craftActionProgressBarColor" color="#f5f3ee" /><!-- couleur jauge craft -->
+
+	<color id="disabledHeroSlotColor" color="#2d2927"/><!-- Couleurs Dégradé Héro socle non actif -->
+	<color id="enabledHeroSlotColor" color="#6d6863"/><!-- Couleurs Dégradé Héro socle actif -->
+	<color id="heroGradientFirstColor" color="#6d6863"/><!-- Couleurs Icone Héros -->
+	<color id="heroGradientSecondColor" color="#181615"/><!-- Couleurs Icone Héros -->
+	<color id="companionGradientFirstColor" color="#6d6863"/><!-- Couleurs Icone Compagnons -->
+	<color id="companionGradientSecondColor" color="#181615"/><!-- Couleurs Icone Compagnons -->
+	
+	<color id="HPColor" color="#e33647"/><!-- Couleurs de la vie dans le coeur -->
+	<color id="APColor" color="#328dda" /><!-- Couleurs des PA -->
+	<color id="MPColor" color="#55aa55" /><!-- Couleurs des MP -->
+	<color id="WPColor" color="#30cfa6" /><!-- Couleurs des WP -->
+	<color id="SPColor" color="#1a001a" /><!-- Couleurs des SP -->
+	<color id="QBColor" color="#ffba00" /><!-- Couleurs des QB -->
+	<color id="xpColor" color="#f0c517"/><!-- Couleurs des barres d'Xp -->
+	
+	<color id="ogrestColor" color="#f0c517"/><!-- Couleur Jauge Ogrest -->
+	
+	<color id="playerTeamHPColor" color="#0700d9"/><!-- Couleurs de la vie au dessus du perso en combat -->
+	<color id="enemyTeamHPColor" color="#ff2200"/><!-- Couleurs de la vie de l'ennemie au dessus en combat -->
+
+	<!-- COMBAT -->
+
+	<color id="detailedCellColor" color="#181615"/><!-- Couleurs Element selectionné atelier métiers -->
+	<color id="tacticalModeBackgroundColor" color="#181615"/><!-- Couleur du fond du mode tactique -->
+	<color id="tacticalModeEvenCellColor" color="#594e3e"/><!-- Couleur des cellules paires du mode tactique -->
+	<color id="tacticalModeOddCellColor" color="#6e604d"/><!-- Couleur des cellules impaires du mode tactique -->
+	<color id="tacticalModeObstacleCellColor" color="#302c2580"/><!-- Couleur des cellules avec un obstacle -->
+	<color id="tacticalModeLineColor" color="#"/><!-- Couleur des lignes entre les cellules et les blocs -->
+	
+	<color id="semiTacticalModeBackgroundColor" color="#181615"/><!-- Couleur du fond du mode semi tactique -->
+	<color id="semiTacticalModeObstacleCellColor" color="#302c2580"/><!-- Couleur des cellules avec un obstacle en mode semi tactique -->
+	<color id="semiTacticalModeLineColor" color="#"/><!-- Couleur des lignes entre les cellules et les blocs en mode semi tactique -->
+	
+	<color id="fightRangeColor" color="#328dda80"/><!-- Couleur de la portée d'une action (Arme/Sort/etc) -->
+	<color id="fightZoneEffectColor" color="#f0c517"/><!-- Couleur de la zone d'une action (Arme/Sort/etc) -->
+	<color id="fightRangeColorWithConstraints" color="#9a8c51"/><!-- Couleur des cases bloquées à cause d'un critère (Genre les glyphes si un déjà posé). Dans le cas d'un sort ça donnera une teinte sous le picto -->
+	<color id="fightRangeColorWithoutLineOfSight" color="#9a8c51"/><!-- Couleur des cases bloquées à cause de la ligne de vue. Dans le cas d'un sort ça donnera une teinte sous le picto -->
+	<color id="fightEmptyCellNeededColor" color="#9a8c51"/><!-- Couleur des cases non concernées par l'action -->
+	<color id="fightPathColor" color="#f0c517"/><!-- Couleur de la prévisualisation du déplacement -->
+	<color id="fightPathErrorColor" color="#e33647"/><!-- Couleur de la prévisualisation du déplacement en cas d'erreur (Genre taclé) -->
+	<color id="fightResistancesBackgroundColor" color="#585350"/><!-- Couleur de fond de la popup d'affichage des résistances au SHIFT+V -->
+	<color id="fightResistancesTextColor" color="#e7e3db"/><!-- Couleur du texte des résistances au SHIFT+V -->
+	<color id="fightMinResistancesTextColor" color="#4cbc8f"/><!-- Couleur du texte des résistances les plus faibles au SHIFT+V -->
+	<color id="fightMaxResistancesTextColor" color="#e33647"/><!-- Couleur du texte des résistances les plus fortes au SHIFT+V -->
+	
+	<color id="ArmorColor" color="#821e28"/><!-- Couleur de la barre d'armure en combat -->
+	<color id="heartArmorColor" color="#821e28"/><!-- Couleur des points d'armure dans le coeur -->
+	<color id="heartHPColor" color="#e33647"/><!-- Couleur des points de vie dans le coeur -->
+
+	<!-- ACCUEIL -->
+
+	<color id="loadingWheelColor" color="#948d87"/><!-- Couleurs des engrenages à l'acceuil -->	
+	<color id="loadingTextColor" color="#f5f3ee"/>
+	<color id="loginGradientColor" color="#f5f3ee"/>
+	<color id="windowBackgroundColor" color="#181615"/><!-- Fond des fenêtre d'accueil du jeu -->
+	
+	<!-- INCONNUS -->
+	
+	<color id="tooltipBackgroundColor" color="#faa93c"/>
+	<color id="tooltipBorderColor" color="#2d2927" />	
+	<color id="tableCellBorderColor" color="#2d2927" />
+	<color id="previewButtonBorderColor" color="#2d2927"/>
+	<color id="scroolfleshcolor" color="#585350"/>
+	<color id="darkEvenCellColor" color="#4b4642"/>
+	<color id="darkOddCellColor" color="#403b38"/>
+	
+	<color id="greyColor" color="#948d87"/>
+	<color id="yellowScoreColor" color="#f0c517" />
+	<color id="redColor" color="#ff6357" />
+	<color id="greenColor" color="#86e17d" />
+	<color id="pressedBlackColor" color="#2d2927"/>
+	<color id="defaultLightGoldColor" color="#faa93c" />
+	<color id="defaultIntenseGoldColor" color="#e27922" />
+	<color id="defaultDisabledColor" color="#adadad" />
+	
+	<color id="serverOnlineColor" color="#43963b" />
+	<color id="serverUnavailableColor" color="#ab1d1d" />
+	
+	<color id="popupInformationColor" color="#4b4642" />
+	<color id="mecanicLightBlueColor" color="#f0c517" />
+
+
+</colors>
