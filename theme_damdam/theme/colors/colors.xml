@@ -120,7 +120,7 @@
 	<color id="fightMinResistancesTextColor" color="#4cbc8f"/><!-- Couleur du texte des résistances les plus faibles au SHIFT+V -->
 	<color id="fightMaxResistancesTextColor" color="#e33647"/><!-- Couleur du texte des résistances les plus fortes au SHIFT+V -->
 	
-	<color id="ArmorColor" color="#821e28"/><!-- Couleur de la barre d'armure en combat -->
+	<color id="ArmorColor" color="#006117"/><!-- Couleur de la barre d'armure en combat -->
 	<color id="heartArmorColor" color="#821e28"/><!-- Couleur des points d'armure dans le coeur -->
 	<color id="heartHPColor" color="#e33647"/><!-- Couleur des points de vie dans le coeur -->
 
